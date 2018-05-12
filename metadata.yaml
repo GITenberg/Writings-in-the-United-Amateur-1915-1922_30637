@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34724
     wikipedia: http://en.wikipedia.org/wiki/H_P_Lovecraft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30637#Writings-in-the-United-Amateur-1915-1922
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-12-09'
 gutenberg_type: Text
