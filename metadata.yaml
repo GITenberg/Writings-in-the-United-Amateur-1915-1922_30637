@@ -1,0 +1,60 @@
+_repo: Writings-in-the-United-Amateur-1915-1922_30637
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Kleiner, Rheinhart
+    gutenberg_agent_id: '34726'
+    url: http://www.gutenberg.org/2009/agents/34726
+  - agent_name: Long, Frank Belknap
+    birthdate: 1903
+    deathdate: 1994
+    gutenberg_agent_id: '25911'
+    url: http://www.gutenberg.org/2009/agents/25911
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Belknap_Long
+  - agent_name: Lockhart, Andrew Francis
+    gutenberg_agent_id: '34725'
+    url: http://www.gutenberg.org/2009/agents/34725
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lovecraft, H. P. (Howard Phillips)
+    aliases:
+    - Lovecraft, Howard Phillips
+    - Littlewit, Humphrey
+    birthdate: 1890
+    deathdate: 1937
+    gutenberg_agent_id: '34724'
+    url: http://www.gutenberg.org/2009/agents/34724
+    wikipedia: http://en.wikipedia.org/wiki/H_P_Lovecraft
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Periodicals'
+- !lcc 'PS'
+- !lcsh 'Essays'
+- !lcsh 'Literature -- History and criticism'
+tableOfContents: 'United Amateur Press Association: Exponent of Amateur Journalism
+  -- Department of Public Criticism -- March -- Little Journeys to the Homes of Prominent
+  Amateurs, by Lockhart -- The Teuton''s Battle-Song, by Lodbrog -- An Epistle to
+  Rheinhart Kleiner, Esq., Poet-Laureate, and Author of "Another Endless Day" -- The
+  Alchemist -- Ode for July Fourth, 1917 -- News Notes: To M. W. M. -- A Reminiscence
+  of Dr. Samuel Johnson, by Littlewit -- Reports of Officers: President''s Message
+  -- Sunset -- Astrophobos, by Phillips -- At the Root -- Department of Literature:
+  The Literature of Rome -- To Alan Seeger -- Theodore Roosevelt -- A Note on Howard
+  P. Lovecraft''s Verse, by Kleiner -- Helene Hoffman Cole—Litterateur -- Americanism
+  -- The White Ship -- To Mistress Sophia Simple, Queen of the Cinema, by Theobald
+  -- Literary Composition -- For What Does the United Stand? -- Poetry and the Gods,
+  by Crofts and Paget-Lowe -- Nyarlathotep -- Editorial -- Winifred Virginia Jackson:
+  A "Different" Poetess -- Ex Oblivione, by Phillips -- At the Home of Poe, by Long.'
+title: Writings in the United Amateur, 1915-1922
+url: http://www.gutenberg.org/ebooks/30637
